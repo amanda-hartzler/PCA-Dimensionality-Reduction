@@ -1,1 +1,2 @@
 # PCA-Dimensionality-Reduction
+The goal of this analysis was to reduce the number of variables in the dataset while preserving as much information as possible. Creating a smaller dataset makes it easier to analyze and visualize the data, and faster for machine learning algorithms. When the company is better able to understand the characteristics of its customers, it is better able to have targeted marketing. Reducing dimensionality allows the company to find the key components of customers. 
